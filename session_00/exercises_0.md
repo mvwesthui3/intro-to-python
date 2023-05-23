@@ -5,31 +5,31 @@
 Before you start, make sure that you are using the Shell 🐚 (not the console).
 
 1. Use `pwd` to check in what directory you are.
+2. 
+3. Use `ls` to check what files and folders are in the current directory.
 
-2. Use `ls` to check what files and folders are in the current directory.
+4. Using `cd <directory_name>` go into the "session_00" directory.
 
-3. Using `cd <directory_name>` go into the "session_00" directory.
+5. Create a new folder named "my_first_folder" using `mkdir <directory_name>`.
 
-4. Create a new folder named "my_first_folder" using `mkdir <directory_name>`.
+6. Delete the empty folder "my_first_folder" using `rmdir <directory_name>`.
 
-5. Delete the empty folder "my_first_folder" using `rmdir <directory_name>`.
+7. Create a new folder named "animals" using `mkdir <directory_name>`.
 
-6. Create a new folder named "animals" using `mkdir <directory_name>`.
+8. Get into the animals folder by using `cd <directory_name>`.
 
-7. Get into the animals folder by using `cd <directory_name>`.
-
-8. Create 3 text files named "penguins.txt", "dogs.txt", "roses.txt" by using `touch <file_name.txt>`.
+9. Create 3 text files named "penguins.txt", "dogs.txt", "roses.txt" by using `touch <file_name.txt>`.
     - Extra challenge: Can you do this while using `touch` only once?
 
-9. Create your first python file called "snakes.py" by using `touch <file_name.py>`.
+10. Create your first python file called "snakes.py" by using `touch <file_name.py>`.
 
-10. Delete the roses.txt file with the `rm <file_name.txt>` command.
+11. Delete the roses.txt file with the `rm <file_name.txt>` command.
 
-11. Display the text "I love whippets!" to to the terminal by using `echo <text>`.
+12. Display the text "I love whippets!" to to the terminal by using `echo <text>`.
 
-12. Write the line "Whippet" in the dogs.txt file using `echo <text> > <file_name.txt>`.
+13. Write the line "Whippet" in the dogs.txt file using `echo <text> > <file_name.txt>`.
 
-13. Display what is inside the dogs.txt file by using `cat <file_name.txt>`.
+14. Display what is inside the dogs.txt file by using `cat <file_name.txt>`.
 
 15. Display the date in the terminal using the `date` command.
 
